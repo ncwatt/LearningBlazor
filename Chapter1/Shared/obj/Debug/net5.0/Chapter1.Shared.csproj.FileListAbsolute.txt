@@ -1,0 +1,12 @@
+C:\Users\nwatt\source\repos\LearningBlazor\Chapter1\Shared\bin\Debug\net5.0\Chapter1.Shared.deps.json
+C:\Users\nwatt\source\repos\LearningBlazor\Chapter1\Shared\bin\Debug\net5.0\Chapter1.Shared.dll
+C:\Users\nwatt\source\repos\LearningBlazor\Chapter1\Shared\bin\Debug\net5.0\ref\Chapter1.Shared.dll
+C:\Users\nwatt\source\repos\LearningBlazor\Chapter1\Shared\bin\Debug\net5.0\Chapter1.Shared.pdb
+C:\Users\nwatt\source\repos\LearningBlazor\Chapter1\Shared\obj\Debug\net5.0\Chapter1.Shared.csprojAssemblyReference.cache
+C:\Users\nwatt\source\repos\LearningBlazor\Chapter1\Shared\obj\Debug\net5.0\Chapter1.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nwatt\source\repos\LearningBlazor\Chapter1\Shared\obj\Debug\net5.0\Chapter1.Shared.AssemblyInfoInputs.cache
+C:\Users\nwatt\source\repos\LearningBlazor\Chapter1\Shared\obj\Debug\net5.0\Chapter1.Shared.AssemblyInfo.cs
+C:\Users\nwatt\source\repos\LearningBlazor\Chapter1\Shared\obj\Debug\net5.0\Chapter1.Shared.csproj.CoreCompileInputs.cache
+C:\Users\nwatt\source\repos\LearningBlazor\Chapter1\Shared\obj\Debug\net5.0\Chapter1.Shared.dll
+C:\Users\nwatt\source\repos\LearningBlazor\Chapter1\Shared\obj\Debug\net5.0\ref\Chapter1.Shared.dll
+C:\Users\nwatt\source\repos\LearningBlazor\Chapter1\Shared\obj\Debug\net5.0\Chapter1.Shared.pdb
